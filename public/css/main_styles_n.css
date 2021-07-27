@@ -1678,8 +1678,3 @@ button.close {
 
 @media(min-width:320px) and (max-width:480px) {
 }
-
-.menu_category_name {
-  text-transform: uppercase;
-  font-weight: 600;
-}
